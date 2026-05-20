@@ -1,10 +1,10 @@
 # Analysis of *Acropora spathulata* population genomics across the Western Pacific 
 
- ## DOI : 
+ ## DOI : https://doi.org/10.1101/2025.10.14.682263
 
 **The authors would appreciate being notified if you intend to use these data or analyses in your own work**
 
-### Title: 
+### Title: Contrasting population structures of reef-building corals and their algal symbionts inform adaptive potential across the Western Pacific, *Current Biology*
 
 Authors
 Hugo Denis<sup>1,2,3</sup>, Katharine E. Prata<sup>4,5</sup>, Hisatake Ishida<sup>6</sup>, Iva Popovic<sup>4,5</sup>, Véronique J.L. Mocellin<sup>4</sup>, Magali Boussion<sup>1</sup>, Ilha Byrne<sup>5</sup>, Steven W. Purcell<sup>3</sup>, Line K. Bay<sup>4</sup>, Gaël Lecellier<sup>7</sup>, Cheong Xin Chan<sup>6</sup>, Cynthia Riginos<sup>4,5</sup>, Emily J. Howells<sup>3,8†</sup>, Véronique Berteaux-Lecellier<sup>1,†</sup>
